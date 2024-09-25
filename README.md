@@ -1,11 +1,17 @@
 Título do projeto
-Exercicio 1 Canvas
+Exercicio 2 Canvas
 
 🚀 Começando
-Crie uma classe que representa um produto. A classe deve ter os atributos, nome, marca, preço de custo e preço de venda. Deve ter também um método que calcula e retorna o lucro. Crie objetos dessa classe e escreva na tela seus atributos e o valor do lucro. Crie uma classe para representar pessoas. O construtor da classe deve receber como parâmetros o nome completo, altura e a data de nascimento. Os objetos, logo após criados, devem criar automaticamente um email no formato nome.sobrenome@dominio. Desafio: A data de nascimento não pode ser posterior à data atual. Para entrega desta atividade, crie um repositório remoto com o nome PRODUTO, preencha o README.MD conforme o modelo apresentado em aula.
+Escreva um método que mostra se um número é positivo ou negativo. Considere o zero positivo.
+Escreva um método recebe 3 números e informa a média aritmética;
+Escreva um método que recebe três números e retorna o maior.
+Escreva um método que recebe dois números, a e b, e retorna ab.
+Escreva um método que recebe uma quantidade de minutos e retorna o equivalente em horas e minutos.
+Por exemplo: 90 min = 1 hora e 30 minutos
+Escreva uma função que retorna o fatorial de número informado por parâmetro
 
 🛠️ Construído com
 Visual Studio Code
 
 ✒️ Autores
-Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios - Etapa 1
+Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios - Etapa 2
